@@ -22,7 +22,7 @@ I'm a passionate AI & Data Science student with strong problem-solving skills an
 
 ---
 
-## 📂 Domains I Work In
+### 📂 Domains I Work In
 
 - ✅ Machine Learning Projects  
 - ✅ Deep Learning / CNN / NLP  
